@@ -17,6 +17,8 @@ inoremap <A-S-b> <Esc>Bi
 inoremap <C-K> <Esc>lDa
 inoremap <C-U> <Esc>d0xi
 inoremap <C-Y> <Esc>Pa
+inoremap <C-n> <Down>
+inoremap <C-p> <Up>
 
 syntax on
 :set clipboard+=unnamed
